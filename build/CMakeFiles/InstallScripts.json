@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/VSCodeProject/C_Practice/MyProject/build/cmake_install.cmake",
+		"E:/VSCodeProject/C_Practice/MyProject/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

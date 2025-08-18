@@ -1,0 +1,6 @@
+E:/VSCodeProject/C_Practice/MyProject/build/CMakeFiles/edit_cache.dir
+E:/VSCodeProject/C_Practice/MyProject/build/CMakeFiles/rebuild_cache.dir
+E:/VSCodeProject/C_Practice/MyProject/build/src/CMakeFiles/MyLib.dir
+E:/VSCodeProject/C_Practice/MyProject/build/src/CMakeFiles/MyExecutable.dir
+E:/VSCodeProject/C_Practice/MyProject/build/src/CMakeFiles/edit_cache.dir
+E:/VSCodeProject/C_Practice/MyProject/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/VSCodeProject/C_Practice/MyProject/build/src",
+  "command": "D:\\SDK\\C++\\mingw64\\bin\\g++.exe  @CMakeFiles/MyLib.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\MyLib.dir\\lib\\module1.cpp.obj -c E:\\VSCodeProject\\C_Practice\\MyProject\\src\\lib\\module1.cpp",
+  "file": "E:/VSCodeProject/C_Practice/MyProject/src/lib/module1.cpp",
+  "output": "src/CMakeFiles/MyLib.dir/lib/module1.cpp.obj"
+},
+{
+  "directory": "E:/VSCodeProject/C_Practice/MyProject/build/src",
+  "command": "D:\\SDK\\C++\\mingw64\\bin\\g++.exe  @CMakeFiles/MyLib.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\MyLib.dir\\lib\\module2.cpp.obj -c E:\\VSCodeProject\\C_Practice\\MyProject\\src\\lib\\module2.cpp",
+  "file": "E:/VSCodeProject/C_Practice/MyProject/src/lib/module2.cpp",
+  "output": "src/CMakeFiles/MyLib.dir/lib/module2.cpp.obj"
+},
+{
+  "directory": "E:/VSCodeProject/C_Practice/MyProject/build/src",
+  "command": "D:\\SDK\\C++\\mingw64\\bin\\g++.exe  @CMakeFiles/MyExecutable.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\MyExecutable.dir\\main.cpp.obj -c E:\\VSCodeProject\\C_Practice\\MyProject\\src\\main.cpp",
+  "file": "E:/VSCodeProject/C_Practice/MyProject/src/main.cpp",
+  "output": "src/CMakeFiles/MyExecutable.dir/main.cpp.obj"
+}
+]
