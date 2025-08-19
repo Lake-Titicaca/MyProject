@@ -43,3 +43,4 @@
 # CMake files
 .\build\*
 .\test\*
+.\bin\*

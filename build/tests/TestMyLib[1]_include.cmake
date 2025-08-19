@@ -1,0 +1,5 @@
+if(EXISTS "E:/VSCodeProject/C_Practice/MyProject/build/tests/TestMyLib[1]_tests.cmake")
+  include("E:/VSCodeProject/C_Practice/MyProject/build/tests/TestMyLib[1]_tests.cmake")
+else()
+  add_test(TestMyLib_NOT_BUILT TestMyLib_NOT_BUILT)
+endif()

@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/MyExecutable.dir/main.cpp.obj"
   "CMakeFiles/MyExecutable.dir/main.cpp.obj.d"
-  "MyExecutable.exe"
-  "MyExecutable.exe.manifest"
-  "MyExecutable.pdb"
+  "E:/VSCodeProject/C_Practice/MyProject/bin/MyExecutable.exe"
+  "E:/VSCodeProject/C_Practice/MyProject/bin/MyExecutable.exe.manifest"
+  "E:/VSCodeProject/C_Practice/MyProject/bin/MyExecutable.pdb"
   "libMyExecutable.dll.a"
 )
 
