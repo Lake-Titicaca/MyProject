@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"E:/VSCodeProject/C_Practice/MyProject/build/_deps/googletest-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
