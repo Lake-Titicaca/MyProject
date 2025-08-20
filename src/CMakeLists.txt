@@ -1,7 +1,10 @@
 # 创建库目标
-add_library(MyLib STATIC
+add_library(MyLib 
+    SHARED
     lib/module1.cpp
     lib/module2.cpp
+    lib/module3.cpp
+    lib/module4.cpp
 )
 
 # 指定库的头文件
