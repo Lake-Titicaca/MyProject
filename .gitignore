@@ -41,6 +41,6 @@
 *.dwo
 
 # CMake files
-.\build\*
-.\test\*
-.\bin\*
+/build/
+/bin/
+/tests/
