@@ -10,8 +10,27 @@
 - Git
     ```
     版本控制工具
-- 参考
+## 项目结构
+
+- TREE
+    ```
+    SRC 
+    │  CMakeLists.txt
+    │  main.cpp
+    │
+    ├─include
+    │      mylib.h
+    │
+    └─lib
+        module1.cpp
+        module2.cpp
+        module3.cpp
+        module4.cpp
+
+- 参考  
+
     ```
     bilibili.com
     豆包AI
     Baidu.com
+    ```
