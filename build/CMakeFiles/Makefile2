@@ -260,8 +260,8 @@ src/CMakeFiles/MyExecutable.dir/clean:
 
 # All Build rule for target.
 tests/CMakeFiles/TestMyLib.dir/all: src/CMakeFiles/MyLib.dir/all
-tests/CMakeFiles/TestMyLib.dir/all: _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
 tests/CMakeFiles/TestMyLib.dir/all: _deps/googletest-build/googletest/CMakeFiles/gtest.dir/all
+tests/CMakeFiles/TestMyLib.dir/all: _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
 	$(MAKE) $(MAKESILENT) -f tests\CMakeFiles\TestMyLib.dir\build.make tests/CMakeFiles/TestMyLib.dir/depend
 	$(MAKE) $(MAKESILENT) -f tests\CMakeFiles\TestMyLib.dir\build.make tests/CMakeFiles/TestMyLib.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=E:\VSCodeProject\C_Practice\MyProject\build\CMakeFiles --progress-num=6,7 "Built target TestMyLib"
